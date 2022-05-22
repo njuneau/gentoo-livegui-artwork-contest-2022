@@ -27,21 +27,23 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="1"
-     inkscape:cx="386.5"
-     inkscape:cy="1153"
+     inkscape:cx="823"
+     inkscape:cy="574"
      inkscape:window-width="1844"
      inkscape:window-height="1046"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g12993"
+     inkscape:current-layer="layer1"
      units="px"
      width="1920px"
      inkscape:showpageshadow="false"
-     borderlayer="false"
+     borderlayer="true"
      showborder="true"
-     objecttolerance="10000"
-     gridtolerance="10">
+     objecttolerance="10"
+     gridtolerance="10"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid844"
@@ -56,6 +58,14 @@
        originx="0"
        originy="0"
        visible="false" />
+    <sodipodi:guide
+       position="254,142.875"
+       orientation="1,0"
+       id="guide189140" />
+    <sodipodi:guide
+       position="253.99999,142.87501"
+       orientation="0,-1"
+       id="guide189142" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -30325,7 +30335,7 @@
        y2="82.530006" />
   </defs>
   <g
-     inkscape:label="Calque 1"
+     inkscape:label="Grid"
      inkscape:groupmode="layer"
      id="layer1">
     <g
@@ -59132,6 +59142,17 @@
            d="M 158.36669,97.469989 136.73338,60 l 21.63331,-37.469989 43.26662,0 L 223.26662,60 201.63331,97.469989 Z" />
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Gentoo Logo"
+     sodipodi:insensitive="true">
+    <path
+       id="path2973"
+       style="display:inline;fill:#000000;fill-opacity:0.3792;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.399425"
+       d="m 156.24154,208.39983 c 0.0239,-9.21192 7.85493,-22.07329 18.98201,-33.75768 7.43611,-7.80855 14.98824,-14.6627 31.45102,-28.69947 -11.38751,-6.24845 -29.09839,-13.78735 -37.98495,-23.66055 -3.28816,-3.65324 -9.24806,-11.92978 -8.09207,-22.987422 2.35606,-22.536978 30.17326,-56.739271 69.71317,-63.970232 13.15616,-2.405963 28.26104,-0.669234 40.69283,4.91983 39.00118,17.534073 86.69753,61.094724 92.56597,82.364204 2.0656,7.48647 1.66857,19.41993 -1.89243,26.0708 -4.41346,8.24299 -19.69199,24.98514 -40.59534,42.26101 -32.79886,27.10707 -78.7602,56.21388 -113.07883,61.11167 -11.0889,1.58254 -22.41834,-0.068 -30.36894,-4.55427 -12.43939,-7.01904 -16.56857,-16.39009 -18.0201,-19.19896 -3.85985,-7.46918 -3.38075,-16.93169 -3.37234,-19.89893 z m 92.3083,-103.49779 c 0.42354,-5.223081 20.90484,-0.0231 19.61074,4.11321 -1.36528,4.36373 -20.09663,1.87862 -19.61074,-4.11321 z"
+       sodipodi:nodetypes="cscssssssssssscss" />
   </g>
   <metadata
      id="metadata3193">
